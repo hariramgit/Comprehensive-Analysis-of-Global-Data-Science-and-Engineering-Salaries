@@ -2,6 +2,9 @@
 
 Excel-Analysis with fine amout of datas
 
+## Vehicle Type Count
+![Vehicle Type Count](https://github.com/hariramgit/Comprehensive-Analysis-of-Global-Data-Science-and-Engineering-Salaries/blob/main/Screenshot%202024-09-01%20194410.png)
+
 
 **Objectives**
 
@@ -31,9 +34,7 @@ Excel-Analysis with fine amout of datas
 
 This project offers a detailed analysis of salary trends within the data science and engineering fields across different countries and experience levels. The use of interactive visuals allows users to explore the data in-depth, making it a powerful tool for decision-making for both job seekers and employers. The analysis not only highlights current market conditions but also provides a foundation for future predictions and strategies in the evolving job market landscape.
 
-## Vehicle Type Count
-![Vehicle Type Count](https://github.com/hariramgit/Comprehensive-Analysis-of-Vehicle-Sales-Data/blob/main/Output(Plots)/count-vehicleType.png)
 
 ## Vehicle Type Count
-![Vehicle Type Count](https://github.com/hariramgit/Comprehensive-Analysis-of-Vehicle-Sales-Data/blob/main/Output(Plots)/count-vehicleType.png)
+![Vehicle Type Count](https://github.com/hariramgit/Comprehensive-Analysis-of-Global-Data-Science-and-Engineering-Salaries/blob/main/Screenshot%202024-09-01%20194420.png)
 
